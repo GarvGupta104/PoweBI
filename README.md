@@ -22,6 +22,7 @@ Trend Identification: Are there noticeable sales or profit trends based on time-
 
 #Dashboard
 <a href="https://github.com/GarvGupta104/PoweBI/blob/main/RetailStore_SalesDashboard_1.png"> Sales Dashboard </a>
+
 <a href="https://github.com/GarvGupta104/PoweBI/blob/main/RetailStore_SuppliersDashboard_2.png"> Supplier Dashboard </a>
 
 #Project Insights
