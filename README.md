@@ -3,16 +3,16 @@
 Retail Store wants a report which can help them identify Sales and Suppliers data YOY, MOM and day basis. So that, Owner can understand their customers and as well as sellers to grow their business exponentially.
 
 # Question KPI
-Sales Performance: What is the total sales revenue for the selected period.
-Profit Analysis: Which suppliers or products contributed the most and least to overall profitability
-Product Sales Trends: What are the top-selling products, and how consistent are their sales over time?
-Customer Insights: Which customer segment (e.g., Silver or Gold) drives the highest profit, and why?
-Order Patterns: What is the distribution of orders across weekdays, and which day sees the highest activity?
-Supplier Impact: How do suppliers differ in product quantity supplied versus profitability?
-Regional Contributions: Which countries contribute the most to profitability, and which regions need improvement?
-Product Line Profitability: How do product lines (e.g., Sports or Clothes) perform in terms of sales and profitability
-Customer Profitability: Which individual customers generate the highest profit and have the largest order quantities?
-Trend Identification: Are there noticeable sales or profit trends based on time-based filters (year, month, or day)?
+1. Sales Performance: What is the total sales revenue for the selected period.
+2. Profit Analysis: Which suppliers or products contributed the most and least to overall profitability
+3. Product Sales Trends: What are the top-selling products, and how consistent are their sales over time?
+4. Customer Insights: Which customer segment (e.g., Silver or Gold) drives the highest profit, and why?
+5. Order Patterns: What is the distribution of orders across weekdays, and which day sees the highest activity?
+6. Supplier Impact: How do suppliers differ in product quantity supplied versus profitability?
+7. Regional Contributions: Which countries contribute the most to profitability, and which regions need improvement?
+8. Product Line Profitability: How do product lines (e.g., Sports or Clothes) perform in terms of sales and profitability
+9. Customer Profitability: Which individual customers generate the highest profit and have the largest order quantities?
+10. Trend Identification: Are there noticeable sales or profit trends based on time-based filters (year, month, or day)?
 
 # Process Steps
 1. Data Extraction from DB
