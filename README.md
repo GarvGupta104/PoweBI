@@ -22,7 +22,7 @@ Retail Store wants a report which can help them identify Sales and Suppliers dat
 
 ## Dashboard
 
-<a href="https://github.com/GarvGupta104/PoweBI/blob/main/RetailStore_SalesDashboard_1.png"> Sales Dashboard </a>
+- <a href="https://github.com/GarvGupta104/PoweBI/blob/main/RetailStore_SalesDashboard_1.png"> Sales Dashboard </a>
 
 <a href="https://github.com/GarvGupta104/PoweBI/blob/main/RetailStore_SuppliersDashboard_2.png"> Supplier Dashboard </a>
 
